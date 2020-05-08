@@ -22,6 +22,7 @@ function App() {
         >
           Learn React
         </a>
+        <button className="btn" type="submit">test</button>
       </header>
     </div>
   );
